@@ -1,6 +1,6 @@
 I don't have the official instructions, but essentially this is a modified version of the "Game of Life" algorithm.
 
-Essentially there is a grid of black and white boxes. For each iteration, every box should be checked for it's neighbors (the 3x3 grid that surounds the box). If it has more black neighbors than white, the box becomes black, if it has more white than black neighbors, it becomes white. All changes take place after the itteration's complete, and the boxes on the edge of the grid won't change color.
+There is a grid of black and white boxes. For each iteration, every box should be checked for it's neighbors (the 3x3 grid that surounds the box). If it has more black neighbors than white, the box becomes black, if it has more white than black neighbors, it becomes white. All changes take place after the itteration's complete, and the boxes on the edge of the grid won't change color.
 
 Notes:
 - The script takes specifically formatted input via STDIN.
