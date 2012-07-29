@@ -1,0 +1,26 @@
+Board 1
+bbwbbwwbbb
+wwwwbbbbbb
+bwwwbbbbbb
+bwwbwbbbbb
+wbwwwwwwww
+wbbwwwwbbw
+bbbbwwwbbb
+bbbbbbbbbb
+bbwbbbbbww
+bwwwbbbbbw
+Board 2
+bbbbbbbwwbwbww
+wbbbbwwwwwbbbb
+wwwwwwwwwbbbbw
+wwwwwwwwwbbbbw
+bbwwwwwwwbbbbb
+bbbwwwwwwbbbbb
+bbbwwwwwwbbbbb
+bbwwwwwwbbbbbb
+bwwwwwbbbbbbbb
+wwwwwbbbbbbbbb
+wwwwwbbbbbbbbb
+wwwwwbbbbbbbbb
+wwwwwbbbbbbbbw
+wwbwwbwbbwwwbw
